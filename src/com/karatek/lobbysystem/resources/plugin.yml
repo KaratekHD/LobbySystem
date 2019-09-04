@@ -1,0 +1,7 @@
+name: LobbySystem
+author: Karatek_HD
+website: https://www.github.com/KaratekHD
+main: com.karatek.lobbysystem.main.Main
+version: 1.0
+commands:
+  hub:
